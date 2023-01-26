@@ -20,6 +20,7 @@ After exiting the program using the corresponding menu option, *bye bye animatio
 
 ## Words
 Game uses a random word from "words.txt" file. I put a predefined "words.txt" file with the repository but you can change it the way you want.
+Don't forget that there should be a blank line at the end of the file.
 
 ![User can define custom words](https://github.com/SalehTavakoli/loser-game/blob/main/screenshots/2.png)
 
