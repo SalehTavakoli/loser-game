@@ -26,6 +26,4 @@ Game uses a random word from "words.txt" file. I put a predefined "words.txt" fi
 User can define their own words in *New word section*.
 
 
-
-
 ***Don't forget to commit your changes if you did any.***
